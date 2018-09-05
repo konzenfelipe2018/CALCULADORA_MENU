@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/idsomar"
+        android:title="Somar" />
+    <item
+        android:id="@+id/idsubtrair"
+        android:title="Subtrair" />
+    <item
+        android:id="@+id/idmultiplicar"
+        android:title="Multiplicar" />
+    <item
+        android:id="@+id/iddividir"
+        android:title="Dividir" />
+</menu>
